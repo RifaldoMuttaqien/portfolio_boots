@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+
+#gallery {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.gallery-card {
+    margin-bottom: 20px;
+}
+
+.col-md-8 .row.justify-content-between .col-md-4:last-child {
+    text-align: right;
+}
